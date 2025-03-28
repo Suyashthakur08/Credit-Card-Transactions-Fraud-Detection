@@ -73,4 +73,4 @@ This project aims to detect fraudulent transactions using various machine learni
 - **Suyash Thakur**
 
 ## References
-- Kaggle Dataset: [Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection/code)
+- Kaggle Dataset: [Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
